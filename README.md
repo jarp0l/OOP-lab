@@ -21,9 +21,9 @@ All my lab works of OOP/C++ and a little of C.
 |---------|----------------|--------------|--------|
 |   1     | [lab-1](./lab-1/)     |     5        | Ready  |
 |   2     | [lab-2](./lab-2/)     |     4        | Ready  |
-|   3     |   lab-3     |     5        | Queued |
-|   4     |   lab-4     |     ---        |  ---   |
-|   5     |   lab-5     |     ---        |  ---   |
+|   3     |   [lab-3](./lab-3/)   |     5        | Ready |
+|   4     |   lab-4        |  4   | Queued |
+|   5     |   lab-5        |     ---        |  ---   |
 
 
 <br>
@@ -46,3 +46,10 @@ All my lab works of OOP/C++ and a little of C.
     - [l2.2.cpp](./lab-2/l2.2.cpp)
     - [l2.3.cpp](./lab-2/l2.3.cpp)
     - [l2.4.cpp](./lab-2/l2.4.cpp)
+
+- [lab-3:](./lab-3/)
+    - [l3.1.cpp](./lab-3/l3.1.cpp)
+    - [l3.2.cpp](./lab-3/l3.2.cpp)
+    - [l3.3.cpp](./lab-3/l3.3.cpp)
+    - [l3.4.cpp](./lab-3/l3.4.cpp)
+    - [l3.5.cpp](./lab-3/l3.5.cpp)
