@@ -1,5 +1,5 @@
 # Ignore vscode config folder
-.vscode/
+.vscode/*
 
 # Ignore all object files
 *.o
@@ -8,3 +8,4 @@
 
 # Ignore editor created temporary files
 *.swp
+*.bak
